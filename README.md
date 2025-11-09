@@ -48,8 +48,8 @@
 
 ### 环境要求
 
-- Python 3.7+
-- PyTorch 1.8+
+- Python 3.10.19
+- Torch 2.4.1
 - NumPy
 - Matplotlib
 - tqdm
